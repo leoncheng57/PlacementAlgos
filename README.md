@@ -10,3 +10,5 @@ Exploring the optimal way to randomly and evenly layout points on a large surfac
 - Poisson
 - Best Candidate
 - Physics Repulsion
+
+Accessible at: https://leoncheng57.github.io/PlacementAlgos/placement-algos.html
